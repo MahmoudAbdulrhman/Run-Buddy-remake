@@ -16,3 +16,5 @@ A website that offers fitness training services.
 ## Contribution
 
 Made By Mahmoud Abdulrhman
+
+### 2019 Run Buddy, Inc
